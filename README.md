@@ -1,0 +1,1 @@
+A series of basic problems in order to get a general understanding of the Haskell language functionality.
